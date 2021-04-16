@@ -131,12 +131,13 @@ body {
   line-height: 1.5em;
   border-radius: 10px;
   padding: 0px 30px;
-  width: 300px;
-  height: 300px;
+  width: 40%;
+  /* height: 300px;  */
 }
 
 #content p span {
-  font-family: 'Lora', sans-serif;
+  font-family: 'Katibeh', serif;
+  font-size: 1.75em;
 }
 
 
